@@ -1,7 +1,3 @@
-Here’s a well-structured **README.md** for your Laravel + Blade project (`StorageHub`). You can customize it further based on your project's specific features.  
-
----
-
 # **📦 StorageHub**  
 **A Laravel-based storage management system**  
 
